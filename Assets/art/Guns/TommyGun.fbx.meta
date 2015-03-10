@@ -17,6 +17,14 @@ ModelImporter:
     100018: TriggerAssembly
     100020: Mag.001
     100022: Metal
+    100024: Mag.000
+    100026: Circle.001
+    100028: Circle.000
+    100030: Wood
+    100032: Armature
+    100034: Bolt
+    100036: Trigger
+    100038: Weapon
     400000: Cube
     400002: Cube.001
     400004: //RootNode
@@ -29,6 +37,14 @@ ModelImporter:
     400018: TriggerAssembly
     400020: Mag.001
     400022: Metal
+    400024: Mag.000
+    400026: Circle.001
+    400028: Circle.000
+    400030: Wood
+    400032: Armature
+    400034: Bolt
+    400036: Trigger
+    400038: Weapon
     2300000: Cube
     2300002: Cube.001
     2300004: Cube.002
@@ -40,6 +56,10 @@ ModelImporter:
     2300016: TriggerAssembly
     2300018: Mag.001
     2300020: Metal
+    2300022: Mag.000
+    2300024: Circle.001
+    2300026: Circle.000
+    2300028: Wood
     3300000: Cube
     3300002: Cube.001
     3300004: Cube.002
@@ -51,6 +71,10 @@ ModelImporter:
     3300016: TriggerAssembly
     3300018: Mag.001
     3300020: Metal
+    3300022: Mag.000
+    3300024: Circle.001
+    3300026: Circle.000
+    3300028: Wood
     4300000: Cube.001
     4300002: Cube
     4300004: Cube.002
@@ -62,6 +86,10 @@ ModelImporter:
     4300016: TriggerAssembly
     4300018: Mag.001
     4300020: Metal
+    4300022: Mag.000
+    4300024: Circle.001
+    4300026: Circle.000
+    4300028: Wood
   materials:
     importMaterials: 1
     materialName: 0
@@ -81,7 +109,7 @@ ModelImporter:
     isReadable: 1
   meshes:
     lODScreenPercentages: []
-    globalScale: 1
+    globalScale: .0500000007
     meshCompression: 0
     addColliders: 0
     importBlendShapes: 1
